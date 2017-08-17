@@ -30,8 +30,8 @@ top: 0px;
 	-webkit-border-radius: 231px;
 	border-radius: 231px;
 	position:absolute;
-	top: 15px;
-	left: 158px;
+	top: 17px;
+	left: 162px;
 	
 }
 #name{
@@ -47,17 +47,30 @@ margin-top: 0px;
 
 h1 {
 	font-family: Conv_MyriadPro-LightSemiExt;
-	margin-top: 15px;
-    margin-bottom: 5px;
+	margin-top: 40px;
+    margin-bottom: 0px;
+	font-size: 109px;
+	letter-spacing: -2px;
 }
 
 h2 {
-	font-family: Conv_MyriadPro-LightSemiExt;
-	margin-top: -12px;
-    margin-bottom: 5px;
-	font-size: 50px;
+	font-family: Conv_MyriadPro-Bold;
+	margin-top: -43px;
+	margin-bottom: 0px;
+	font-size: 123px;
+	
 	
 }
+
+h3 {
+	font-family: Conv_MyriadPro-Bold;
+	margin-top: 1px;
+	font-size: 50px;
+	letter-spacing: -1px;
+	
+}
+
+
 
 body{
 	
@@ -69,6 +82,14 @@ margin:0px;
 	src: url('fonts/MyriadPro-LightSemiExt.eot');
 	src: local('☺'), url('fonts/MyriadPro-LightSemiExt.woff') format('woff'), url('fonts/MyriadPro-LightSemiExt.ttf') format('truetype'), url('fonts/MyriadPro-LightSemiExt.svg') format('svg');
 	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_MyriadPro-Bold';
+	src: url('fonts/MyriadPro-Bold.eot');
+	src: local('☺'), url('fonts/MyriadPro-Bold.woff') format('woff'), url('fonts/MyriadPro-Bold.ttf') format('truetype'), url('fonts/MyriadPro-Bold.svg') format('svg');
+	font-weight: normal;
 	font-style: normal;
 }
 
