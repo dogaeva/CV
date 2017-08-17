@@ -1,0 +1,75 @@
+
+#header{
+background:darkred;
+width:786px;
+height:853px;
+position:absolute;
+left:162px;
+top: 162px;
+}
+#leftcolumn{
+background:oldlace;
+width:1100px;
+height:3212px;
+}
+#rightcolumn{
+background:pink;
+width:1380px;
+height:3212px;
+position:absolute;
+left: 1100px;
+top: 0px;
+
+
+}
+#circle {
+	width: 462px;
+	height: 462px;
+	background: pink;
+	-moz-border-radius: 231px;
+	-webkit-border-radius: 231px;
+	border-radius: 231px;
+	position:absolute;
+	top: 15px;
+	left: 158px;
+	
+}
+#name{
+background:blue;
+width:786px;
+height:365px;
+position:absolute;
+top: 488px;
+font-size: 55px;
+text-align: center;
+margin-top: 0px;
+}
+
+h1 {
+	font-family: Conv_MyriadPro-LightSemiExt;
+	margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+h2 {
+	font-family: Conv_MyriadPro-LightSemiExt;
+	margin-top: -12px;
+    margin-bottom: 5px;
+	font-size: 50px;
+	
+}
+
+body{
+	
+margin:0px;
+}
+
+@font-face {
+	font-family: 'Conv_MyriadPro-LightSemiExt';
+	src: url('fonts/MyriadPro-LightSemiExt.eot');
+	src: local('☺'), url('fonts/MyriadPro-LightSemiExt.woff') format('woff'), url('fonts/MyriadPro-LightSemiExt.ttf') format('truetype'), url('fonts/MyriadPro-LightSemiExt.svg') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+     
