@@ -98,12 +98,8 @@ h4 {
 
    .leftimg {
     float:left; 
-<<<<<<< HEAD
-    margin: 0px 26px 0px 0; 
-=======
     margin: 0px 26px 20px 0; 
->>>>>>> 386f0c9987b55208ab1094da5262a554ec556e23
-   }
+
 
 .title {
   overflow: hidden;
