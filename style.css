@@ -50,6 +50,23 @@ left: 0px;
 top: 216px;
 }
 
+#Grupo-2{
+background:WHITE;
+width:447px;
+height:354px;
+position:absolute;
+left: 258px;
+top: 216px;
+}
+
+#SKILLS{
+background:WHITE;
+width:826px;
+height:788px;
+position:absolute;
+left: 121px;
+top: 2562px;
+}
 
 
 #circle {
@@ -74,6 +91,8 @@ font-size: 55px;
 text-align: center;
 margin-top: 0px;
 }
+
+
 
 h1 {
 	font-family: Conv_MyriadPro-LightSemiExt;
@@ -163,13 +182,23 @@ strong {
 }
 
 
-.contact {
+.contact_grupo-1 {
   font-size: 41.15px;
   margin-left: 0px;
   letter-spacing: -0.3px;
   margin-top: -30px;
  line-height: 85px;
 }
+
+.contact_grupo-2 {
+  font-size: 41.15px;
+  margin-left: 0px;
+  letter-spacing: 0px;
+  margin-top: -37px;
+ line-height: 104px;
+}
+
+
 
 body{
 	
